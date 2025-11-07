@@ -31,12 +31,19 @@ The CNN includes:
 
 ## Project Structure
 ImageTaggingAI-Tkinter/
+
 │
+
 ├── image_tagging_app.py # Main Tkinter app file
+
 ├── model.h5 # Trained CNN model
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Project documentation
+
 └── sample_images/ # Example test images
+
 
 ---
 
@@ -54,7 +61,6 @@ ImageTaggingAI-Tkinter/
 3. **Run the application**
     ```bash
     python image_tagging_app.py
-
 
 ---
 
